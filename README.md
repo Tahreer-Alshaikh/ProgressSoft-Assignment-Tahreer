@@ -10,6 +10,3 @@ This repository contains my full assignment for the ProgressSoft Associate Suppo
 -DevOps 
 
 "
-# ProgressSoft-Assignment-Tahreer
-# ProgressSoft-Assignment-Tahreer
-# ProgressSoft-Assignment-Tahreer
